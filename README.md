@@ -7,9 +7,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanBrandao&show_icons=true&theme=radical)
 
 ### Tecnologias que faço uso:
-
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div>
+</div><br/>
+
+####  Sou estudante de Engenharia de Software pela (UNIFAN) apaixonado por tecnologia e desenvolvimento. Tenho experiência em Java, C e MySQL e estou sempre buscando aprender mais sobre desenvolvimento de sistemas, IoT e inteligência artificial.
