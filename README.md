@@ -4,14 +4,6 @@
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanBrandao&show_icons=true&theme=radical&hide_border=true" />
-  <span style="width: 30px; display: inline-block;"></span> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBrandao&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Tecnologias que faço uso:
 
 <p align="center">
@@ -27,3 +19,8 @@
 ---
 
 #### 📚 Sou estudante de Engenharia de Software pela **UNIFAN**, apaixonado por tecnologia e desenvolvimento. Tenho experiência em **Java, C e MySQL** e estou sempre buscando aprender mais sobre **desenvolvimento de sistemas, IoT e inteligência artificial**.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanBrandao&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBrandao&layout=compact&theme=radical&hide_border=true" />
+</p>
