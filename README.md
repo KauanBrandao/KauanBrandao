@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Kauan Brandão 🖐️
+### Hello World! Eu me chamo Kauan Brandão e aqui temos um pouco do meu portifólio.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-brandão-654aa2326/?trk=opento_sprofile_topcard)  [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kauanbrandao07@gmail.com)
 
