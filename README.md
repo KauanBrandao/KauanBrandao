@@ -23,6 +23,6 @@
 
 ---
 
-#### 📚 Sou estudante de Engenharia de Software pela **UNIFAN**, apaixonado por tecnologia e desenvolvimento. Tenho experiência em **Java, C e MySQL** e estou sempre buscando aprender mais sobre **desenvolvimento de sistemas, IoT e inteligência artificial**.
+#### 📚 Sou estudante de Engenharia de Software pela **UNIFAN**, apaixonado por tecnologia e desenvolvimento. Tenho experiência em **Java, C e MySQL** e estou sempre buscando aprender mais sobre **desenvolvimento de sistemas e inteligência artificial**.
 
 
