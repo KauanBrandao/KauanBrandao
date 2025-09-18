@@ -20,8 +20,4 @@
   <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
----
-
-#### 📚 Sou estudante de Engenharia de Software pela **UNIFAN**. Tenho experiência em **Java, C e MySQL** e estou sempre buscando aprender mais sobre **desenvolvimento de sistemas e engenharia de software**.
-
 
