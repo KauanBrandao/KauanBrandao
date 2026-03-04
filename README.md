@@ -1,12 +1,4 @@
-### Hello World! Eu me chamo Kauan Brandão e aqui temos um pouco do meu portifólio.
 
-
----
-
-<p align="center">
-  <img height="180em" width="400px" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanBrandao&theme=dark&show_icons=true)" />
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBrandao&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ### 🚀 Tecnologias que faço uso:
 
