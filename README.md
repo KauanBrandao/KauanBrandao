@@ -29,7 +29,7 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo atualmente:
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanBrandao&theme=dark&show_icons=true" />
+  <img height="180em" src="[![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanBrandao)](https://github.com/KauanBrandao/github-readme-stats)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanBrandao&layout=compact&theme=radical&hide_border=true" />
 </p>
 
